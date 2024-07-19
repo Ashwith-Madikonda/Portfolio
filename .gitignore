@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Server/.vs
+/Server/Portfolio.API/bin/Debug/net8.0
+/Server/Portfolio.API/obj
+/Server/Portfolio.Application/bin/Debug/net8.0
+/Server/Portfolio.Application/obj
+/Server/Portfolio.Domain/.vs/Portfolio.Domain
+/Server/Portfolio.Domain/bin/Debug/net8.0
+/Server/Portfolio.Domain/obj
+/Server/Portfolio.Infrastructure/bin/Debug/net8.0
+/Server/Portfolio.Infrastructure/obj
+/.vs
